@@ -8,7 +8,7 @@ import numpy as np
 import joblib
 
 # Load the trained model
-MODEL_PATH = r"models\final_model.pkl"
+MODEL_PATH = r"models/final_model.pkl"
 loaded_model = joblib.load(MODEL_PATH)
 
 # Fixed category list for OneHotEncoder (to match training time)
