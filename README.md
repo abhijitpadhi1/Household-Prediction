@@ -4,6 +4,11 @@ This project is a web application built using **FastAPI** that predicts the **me
 <br><br>
 Users input housing characteristics such as location, number of rooms, income, population, and ocean proximity, and the model outputs the estimated house value.
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) 
+[![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-orange)](https://scikit-learn.org/stable/) 
+[![FastAPI](https://img.shields.io/badge/Web-FastAPI-009688)](https://fastapi.tiangolo.com/) 
+[![Deployed on Render](https://img.shields.io/badge/Deployed-Render-blueviolet)](https://household-prediction.onrender.com)
+
 ---
 
 ## 🚀 Features
